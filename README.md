@@ -1,4 +1,4 @@
-##READ ME
+# READ ME
 
 This is a webpage made using the activities in the Head First HTML/CSS Book. 
 
